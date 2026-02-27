@@ -2,6 +2,10 @@
 
 The **Render Editor** extension for Inkscape visualizes the nodes and handles of selected paths, mimicking the appearance of the built-in Node Editor. It allows you to clearly see the structure of paths, including corners, smooth points, and auto-smooth points, along with the control handles for curves.  
 
+<img width="1196" height="863" alt="Image" src="https://github.com/user-attachments/assets/34b9913c-09b8-4667-a476-17401988bf7e" />
+
+[Youtube extension showcase](https://www.youtube.com/watch?v=5c3B57TH-MA)
+
 This visualization is useful for several purposes:  
 
 - **Learning and tutorials**: Helps beginners understand how paths are constructed and how node types affect the shape of curves.  
